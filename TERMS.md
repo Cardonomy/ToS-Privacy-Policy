@@ -88,5 +88,16 @@ For questions, concerns, or data-related requests:
 ### 9. Changes to Terms
 We may update these Terms of Service at any time. Significant changes will be posted in our official Discord server. Continued use of the Service after such updates constitutes your acceptance of the revised Terms.
 
-### 10. Governing Law
+### 10. Intellectual Property
+Cardonomy is an unofficial, fan-made project. All anime characters, names, likenesses, logos, and artwork featured in the Game are the property of their respective creators, publishers, and rights holders. Cardonomy claims **no ownership of, affiliation with, or endorsement by** any of these third-party rights holders.
+
+The Game and its content are provided for entertainment purposes only. No commercial use of third-party intellectual property is intended, and Cardonomy does not sell any third-party artwork or characters (see Section 6).
+
+If you are a rights holder and believe your intellectual property has been used improperly, you may request its removal by contacting us at:  
+📧 cardonomybiz@gmail.com  
+🌐 [Official Discord Support Server](https://discord.gg/v6D8YuezGF)
+
+We will review all good-faith requests and remove infringing content where appropriate.
+
+### 11. Governing Law
 These Terms are governed by and construed in accordance with the laws of **England and Wales**. You agree that any disputes arising under or in connection with these Terms will be subject to the exclusive jurisdiction of the courts of England and Wales.
